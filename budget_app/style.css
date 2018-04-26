@@ -87,7 +87,7 @@ body {
 }
 
 .budget__income--percentage,
-.budget__expenses--precentage {
+.budget__expenses--percentage {
    float: left;
    width: 34px;
    font-size: 11px;
@@ -99,6 +99,7 @@ body {
    background-color: rgba(255, 255, 255, 0.2);
    text-align: center;
    border-radius: 3px;
+   
 }
 
 /* BOTTOM PART */
